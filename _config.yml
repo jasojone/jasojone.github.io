@@ -83,11 +83,11 @@ author:
   name             : "Jason Jones"
   avatar           : "profile.png"
   bio              : "Father | Computer Science Student | Cal State Polytechnic University, Pomona | NASA L'SPACE (MCA) Fall 2020 | NASA NCAS 2020 Alumni | ΦΘΚ Honor Society | Kellogg Honors College | Liquidation Auditor Costco Wholesale"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "So-Cal"
+  employer         : "Costco Wholesale"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "Jason.Ryan.Jones@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/jasojone/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jasonjones951/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Jaso_Jone" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
