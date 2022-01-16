@@ -26,7 +26,7 @@ Work experience
 2015 – PRESENT 
 * Inventory Auditor, Costco Wholesale 
   * Liquidation Auditor for Returns Depot #1995
-  * Previously part of Leadership Team, Supervisor 
+  * Previously part of Leadership Team as Supervisor 
 
 2014 – 2015
 * Web Development, Northcote Energy
@@ -49,27 +49,30 @@ Skills
 * Google 
   * Docs
   * Sheets
-  * 
-* Skill 3
+  * Slides
+* Microsoft Office
+  * Excel
+  * Word
+  * Power Point
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
