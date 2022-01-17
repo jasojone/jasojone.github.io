@@ -1,4 +1,16 @@
 ---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+
+
+<!-- Jenni the dev inspiration  -->
+<!-- ---
 title: "title"
 excerpt: "A...<br/><img src='https://media.giphy.com'>"
 collection: portfolio
@@ -80,8 +92,8 @@ Known in class as "Team Name"
 <br>
 
 ![](https://media.giphy.com/media/GXCNFdRoJnxkoWsSSF/giphy.gif) -->
-
-<br><br>
+<!-- 
+<br><br> -->
 
 
 <!-- ## Project Documentation <a name="Docs"></a> <br>
@@ -101,4 +113,4 @@ Known in class as "Team Name"
 - Jenni Says music is "Pleasant Creek" by [Matthew Pablo](http://www.matthewpablo.com) from [OpenGameArt.Org](https://opengameart.org/content/pleasant-creek) and used under a Creative Commons license<br>
 - Jenni Says fonts are Quenda by Marc Lohner from [Dafont](https://www.dafont.com/quenda.font)
 - Dodgecoin fonts are Swirly Kids by Hanif Syahputra from [Dafont](https://www.dafont.com/swirly-kids.font)
-- Thanks to [Brackeys](https://www.youtube.com/watch?v=zc8ac_qUXQY&t=1s), [Akbar Project](https://www.youtube.com/watch?v=GURPmGoAOoM), [Renaissance Coders](https://www.youtube.com/watch?v=1h2yStilBWU&t=213s), and [Alexander Zotov](https://www.youtube.com/watch?v=ST7BAqV-1ow) for the informative tutorials -->
+- Thanks to [Brackeys](https://www.youtube.com/watch?v=zc8ac_qUXQY&t=1s), [Akbar Project](https://www.youtube.com/watch?v=GURPmGoAOoM), [Renaissance Coders](https://www.youtube.com/watch?v=1h2yStilBWU&t=213s), and [Alexander Zotov](https://www.youtube.com/watch?v=ST7BAqV-1ow) for the informative tutorials --> -->
