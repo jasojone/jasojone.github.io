@@ -31,7 +31,7 @@ Work experience
 2014 – 2015
 * Web Development, Northcote Energy
   * Wix.com website design and maintenance
-  * Cloud managment
+  * Cloud management
 
 2010 – 2012
 * HVAC Technician, Deporto Heating and Air
