@@ -20,6 +20,15 @@ Education
   * Engineering Leadership Program
   * CPP RAMP Program
 
+Acedemic Programs 
+======
+Kellogs Honos College
+
+RCC ACM Club
+
+NASA L'Space Acedemy
+
+NASA NCAS
 
 Work experience
 ======
@@ -31,7 +40,7 @@ Work experience
 2014 – 2015
 * Web Development, Northcote Energy
   * Wix.com website design and maintenance
-  * Cloud management
+  * Cloud managment
 
 2010 – 2012
 * HVAC Technician, Deporto Heating and Air
