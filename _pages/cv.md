@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-**B.S. in Computer Science, California State Polytechnic University Pomona, 2024**
+**B.S. in Computer Science, California State Polytechnic University Pomona, 2024**  
 **(expected)**
   * Kellogs Honors College 
   * Engineering Leadership Program
@@ -52,7 +52,7 @@ contribute to the next generation of space exploration
 # Work experience
 
 
-**Inventory Auditor, Costco Wholesale Returns Depot #1995**<br\>
+**Inventory Auditor, Costco Wholesale Returns Depot #1995** <br>  
 *2015 – Present*
   * Liquidation Auditor for Returns Depot #1995
   * Carry out analytical procedures
