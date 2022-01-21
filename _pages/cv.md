@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-**B.S. in Computer Science, California State Polytechnic University Pomona, 2023**
+**B.S. in Computer Science, California State Polytechnic University Pomona, 2024**
 **(expected)**
   * Kellogs Honors College 
   * Engineering Leadership Program
@@ -23,7 +23,8 @@ redirect_from:
   * Deans List
 
 
-# Acedemic Programs 
+# Acedemic Programs
+**Tentative CS Club CPP** 
 
 **Kellogs Honors College 2021-Present**
   * Promote academic excellence and intellectual exploration through honors courses, civic engagement, and special events
@@ -51,7 +52,7 @@ contribute to the next generation of space exploration
 # Work experience
 
 
-**Inventory Auditor, Costco Wholesale Returns Depot #1995** 
+**Inventory Auditor, Costco Wholesale Returns Depot #1995**<br\>
 *2015 – Present*
   * Liquidation Auditor for Returns Depot #1995
   * Carry out analytical procedures
@@ -61,7 +62,7 @@ contribute to the next generation of space exploration
 
 2014 – 2015
 * Web Development, Northcote Energy
-  * Wix.com website design and maintenance
+  * Wix.com website design, deployment, and maintenance
   * Cloud managment
 
 2010 – 2012
