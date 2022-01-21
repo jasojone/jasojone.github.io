@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Education
-**B.S. in Computer Science, California State Polytechnic University Pomona, 2023 (expected)**
+**B.S. in Computer Science, California State Polytechnic University Pomona, 2023**
+**(expected)**
   * Kellogs Honors College 
   * Engineering Leadership Program
   * CPP RAMP - Reading Advising & Mentoring Program
