@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,28 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
 ======
-* A.S. in Mathematics and Science, Norco College, Norco, 2021
-  * 4.0 GPA
-  * STEM pathways 
-  * Phi Theta Cappa Honor Society
-* B.S. in Computer Science, California State Polytechnic University, Pomona, 2023 (expected)
+**B.S. in Computer Science, California State Polytechnic University Pomona, 2023 (expected)**
   * Kellogs Honors College 
   * Engineering Leadership Program
   * CPP RAMP Program
 
-Acedemic Programs 
-======
-Kellogs Honos College
+**A.S. in Mathematics and Science, Norco College, 2021**
+  * 4.0 GPA
+  * STEM pathways 
+  * Phi Theta Cappa Honor Society
+  * Deans List
 
-RCC ACM Club
+
+# Acedemic Programs 
+======
+**Kellogs Honors College 2021-Present**
+  * Promote academic excellence and intellectual exploration through honors courses, civic engagement, and special events
+  *  Planned participation in a senior capstone research project with CS faculty 
+
+**RCC ACM Club 2020 - 2021**
+  * Chapter Vice Chair
+  * Developed chapter programs
+  * Held meetings and practices
+  * New membership recruitment
 
 NASA L'Space Acedemy
 
 NASA NCAS
 
-Work experience
+# Work experience
 ======
 2015 – PRESENT 
 * Inventory Auditor, Costco Wholesale 
@@ -51,7 +60,7 @@ Work experience
   * Security detail for residential, industrial, and special events
   * Leadership Team, Patrol and Special events
 
-Skills
+# Skills
 ======
 * C++
 * Java
