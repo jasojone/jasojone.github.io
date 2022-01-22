@@ -27,12 +27,9 @@ redirect_from:
 **Tentative CS Club CPP**
 
 **Engineering Leadership Program**
-  * Ethics: 
-    * Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
-  * Self: 
-    *Gathering awareness, strengths reflection, time journaling
-  * Team: 
-    * Strengths and teamwork, team role reflection 
+  * Ethics:  Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
+  * Self:  Gathering awareness, strengths reflection, time journaling
+  * Team:  Strengths and teamwork, team role reflection 
 
 **Kellogs Honors College 2021-Present**
   * Promote academic excellence and intellectual exploration through honors courses, civic engagement, and special events
@@ -62,8 +59,7 @@ contribute to the next generation of space exploration
 
 **Inventory Auditor, Costco Wholesale Returns Depot #1995**  
 *2015 – Present*
-  * Liquidation Auditor for Returns Depot #1995
-  * Investigate and correct inventory discrepancies
+  * Investigate, recover losses, and correct inventory discrepancies
   * Conduct inventory counts and prepare inventory reports
   * Advise leadership team on developing new procedures to improve accuracy
   * Previously part of Leadership Team as Supervisor 
