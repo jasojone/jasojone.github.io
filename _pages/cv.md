@@ -24,7 +24,7 @@ redirect_from:
 
 
 # Acedemic Programs
-**Tentative CS Club CPP**
+<!-- **Tentative CS Club CPP** -->
 
 **Engineering Leadership Program**
   * Ethics:  Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
