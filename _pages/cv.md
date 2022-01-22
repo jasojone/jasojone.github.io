@@ -24,35 +24,21 @@ redirect_from:
 
 
 # Acedemic Programs
-**Tentative CS Club CPP**/
-hello/n
-world  /
-hi
+**Tentative CS Club CPP**
 
 **Engineering Leadership Program**
-  * Ethics:
-    * Principles of leadership
-    * Leadership and mindset
-    * Outward mindset
-    * Mindset and teamwork
-   * Self:
-    * Gathering awareness
-    * Strenght reflection 
-    * Time journal 
-  * Team:
-   * Streanghts and teamwork
-   * Team role reflection 
-
-   **Engineering Leadership Program**
-  * Ethics: Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
-  * Self: Gathering awareness, strenghts reflection, time journaling
-  * Team: Streanghts and teamwork, team role reflection 
+  * Ethics: 
+    * Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
+  * Self: 
+    *Gathering awareness, strengths reflection, time journaling
+  * Team: 
+    * Strengths and teamwork, team role reflection 
 
 **Kellogs Honors College 2021-Present**
   * Promote academic excellence and intellectual exploration through honors courses, civic engagement, and special events
   *  Planned participation in a senior capstone research project with CS faculty 
 
-**RCC ACM Club Chapter Vice Chair 2020 - 2022**
+**RCC ACM Club Chapter Vice-Chair 2020 - 2022**
   * Developed chapter activities and programs
   * Held meetings and practices
   * New membership recruitment
@@ -65,7 +51,7 @@ Saturn’s Moon Enceladus
   * link to PDR
 
 **NASA NCAS - Community Aero Space Scholars**
-  * Gained an understanding of NASA’s past, present and future missions and how they will 
+  * Gained an understanding of NASA’s past, present, and future missions and how they will 
 contribute to the next generation of space exploration
   * Obtained the skills and resources to pursue a career at NASA or in a STEM Field
   * Final Research paper on Habitation Systems Concept Studies
