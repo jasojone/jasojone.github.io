@@ -25,7 +25,6 @@ redirect_from:
 
 # Acedemic Programs
 <!-- **Tentative CS Club CPP** -->
-
 **Engineering Leadership Program**
   * Ethics:  Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
   * Self:  Gathering awareness, strengths reflection, time journaling
@@ -40,7 +39,7 @@ redirect_from:
   * Held meetings and practices
   * New membership recruitment
 
-**NASA L'Space Mission Concept Academy Fall 2020**
+**NASA L'Space Mission Concept Academy Deputy Project Manager Fall 2020**
   * Enceladus Strategic Science Investigation
   * Design a lander mission concept targeting the Tiger Stripe region on
 Saturn’s Moon Enceladus
@@ -52,6 +51,7 @@ Saturn’s Moon Enceladus
 contribute to the next generation of space exploration
   * Obtained the skills and resources to pursue a career at NASA or in a STEM Field
   * Final Research paper on Habitation Systems Concept Studies
+  * Awarded invitation to virtual on-site experience 
   * Link to RP
 
 # Work experience
@@ -80,6 +80,7 @@ contribute to the next generation of space exploration
 
 # Skills
 
+* GitHub
 * C++
 * Java
 * Google 
