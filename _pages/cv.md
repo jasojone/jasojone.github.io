@@ -59,7 +59,7 @@ contribute to the next generation of space exploration
 
 **Inventory Auditor, Costco Wholesale Returns Depot #1995**  
 *2015 – Present*
-  * Investigate, recover losses, and correct inventory discrepancies
+  * Investigate, correct inventory discrepancies, and recover losses
   * Conduct inventory counts and prepare inventory reports
   * Advise leadership team on developing new procedures to improve accuracy
   * Previously part of Leadership Team as Supervisor 
