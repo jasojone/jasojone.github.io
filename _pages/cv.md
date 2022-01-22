@@ -24,7 +24,29 @@ redirect_from:
 
 
 # Acedemic Programs
-**Tentative CS Club CPP** 
+**Tentative CS Club CPP**/
+hello/n
+world  /
+hi
+
+**Engineering Leadership Program**
+  * Ethics:
+    * Principles of leadership
+    * Leadership and mindset
+    * Outward mindset
+    * Mindset and teamwork
+   * Self:
+    * Gathering awareness
+    * Strenght reflection 
+    * Time journal 
+  * Team:
+   * Streanghts and teamwork
+   * Team role reflection 
+
+   **Engineering Leadership Program**
+  * Ethics: Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
+  * Self: Gathering awareness, strenghts reflection, time journaling
+  * Team: Streanghts and teamwork, team role reflection 
 
 **Kellogs Honors College 2021-Present**
   * Promote academic excellence and intellectual exploration through honors courses, civic engagement, and special events
@@ -35,14 +57,14 @@ redirect_from:
   * Held meetings and practices
   * New membership recruitment
 
-**NASA L'Space Mission Concept Acedemy Fall 2020**
+**NASA L'Space Mission Concept Academy Fall 2020**
   * Enceladus Strategic Science Investigation
   * Design a lander mission concept targeting the Tiger Stripe region on
 Saturn’s Moon Enceladus
   * Prepared a Preliminary Design Review (PDR) document describing the science objectives, experiments, spacecraft design, and payload
   * link to PDR
 
-**NASA NCAS - Community Areo Space Scholors**
+**NASA NCAS - Community Aero Space Scholars**
   * Gained an understanding of NASA’s past, present and future missions and how they will 
 contribute to the next generation of space exploration
   * Obtained the skills and resources to pursue a career at NASA or in a STEM Field
@@ -52,12 +74,12 @@ contribute to the next generation of space exploration
 # Work experience
 
 
-**Inventory Auditor, Costco Wholesale Returns Depot #1995** <br>  
+**Inventory Auditor, Costco Wholesale Returns Depot #1995**  
 *2015 – Present*
   * Liquidation Auditor for Returns Depot #1995
-  * Carry out analytical procedures
-  * Conduct inventory counts and prepair inventory reports
-  * Work with leadership team to develop new procedures to improve accuracy
+  * Investigate and correct inventory discrepancies
+  * Conduct inventory counts and prepare inventory reports
+  * Advise leadership team on developing new procedures to improve accuracy
   * Previously part of Leadership Team as Supervisor 
 
 2014 – 2015
@@ -72,7 +94,7 @@ contribute to the next generation of space exploration
 2004 – 2010
 * Security Guard, Cheif Protective Services
   * Security detail for residential, industrial, and special events
-  * Leadership Team, Patrol and Special events
+  * Leadership Team, Patrol, and Special events
 
 # Skills
 
