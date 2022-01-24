@@ -23,7 +23,7 @@ redirect_from:
   * Deans List
 
 
-# Acedemic Programs
+# Academic Programs
 <!-- **Tentative CS Club CPP** -->
 **Engineering Leadership Program**
   * Ethics:  Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
