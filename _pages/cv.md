@@ -80,17 +80,7 @@ contribute to the next generation of space exploration
 
 # Skills
 
-* GitHub
-* C++
-* Java
-* Google 
-  * Docs
-  * Sheets
-  * Slides
-* Microsoft Office
-  * Excel
-  * Word
-  * Power Point
+* Proficient in C++, Java, GitHub, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, Power Point
 
 <!-- Publications
 
