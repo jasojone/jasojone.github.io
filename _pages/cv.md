@@ -64,17 +64,17 @@ contribute to the next generation of space exploration
   * Advise leadership team on developing new procedures to improve accuracy
   * Previously part of Leadership Team as Supervisor 
 
-2014 – 2015
-* Web Development, Northcote Energy
+**Web Development, Northcote Energy**  
+*2014 – 2015*
   * Wix.com website design, deployment, and maintenance
   * Cloud managment
 
-2010 – 2012
-* HVAC Technician, Deporto Heating and Air
+**HVAC Technician, Deporto Heating and Air**  
+*2010 – 2012*
   * Installation and service of residential and industrial heating and air 
 
-2004 – 2010
-* Security Guard, Cheif Protective Services
+**Security Guard, Cheif Protective Services**  
+*2004 – 2010*
   * Security detail for residential, industrial, and special events
   * Leadership Team, Patrol, and Special events
 
