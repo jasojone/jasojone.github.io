@@ -56,7 +56,6 @@ contribute to the next generation of space exploration
 
 # Work experience
 
-
 **Inventory Auditor, Costco Wholesale Returns Depot #1995**  
 *2015 – Present*
   * Investigate, correct inventory discrepancies, and recover losses
@@ -72,15 +71,18 @@ contribute to the next generation of space exploration
 **HVAC Technician, Deporto Heating and Air**  
 *2010 – 2012*
   * Installation and service of residential and industrial heating and air 
+  * Provided excellent customer service 
+  * Carried out service calls
 
 **Security Guard, Cheif Protective Services**  
 *2004 – 2010*
   * Security detail for residential, industrial, and special events
-  * Leadership Team, Patrol, and Special events
+  * Part of the Leadership Team as a special events coordinator
+  * Patrol supervisor maintaining guard post routs
 
 # Skills
 
-* Proficient in C++, Java, GitHub, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, Power Point
+* Proficient in C++, Java, GitHub, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, PowerPoint
 
 <!-- Publications
 
