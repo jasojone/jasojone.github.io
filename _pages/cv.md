@@ -74,11 +74,11 @@ contribute to the next generation of space exploration
   * Provided excellent customer service 
   * Carried out service calls
 
-**Security Guard, Cheif Protective Services**  
+**Security Guard, Chief Protective Services**  
 *2004 – 2010*
   * Security detail for residential, industrial, and special events
   * Part of the Leadership Team as a special events coordinator
-  * Patrol supervisor maintaining guard post routs
+  * Patrol supervisor maintaining guard post routes
 
 # Skills
 
