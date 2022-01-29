@@ -25,27 +25,32 @@ redirect_from:
 
 # Academic Programs
 <!-- **Tentative CS Club CPP** -->
-**Engineering Leadership Program**
+**Kellogs Honors College**  
+*2021-Present*
+  * Promote academic excellence and intellectual exploration through honors courses, civic engagement, and special events
+  *  Planned participation in a senior capstone research project with CS faculty 
+
+**Engineering Leadership Program**  
+*Fall 2021*
   * Ethics:  Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
   * Self:  Gathering awareness, strengths reflection, time journaling
   * Team:  Strengths and teamwork, team role reflection 
 
-**Kellogs Honors College 2021-Present**
-  * Promote academic excellence and intellectual exploration through honors courses, civic engagement, and special events
-  *  Planned participation in a senior capstone research project with CS faculty 
-
-**RCC ACM Club Chapter Vice-Chair 2020 - 2022**
+**RCC ACM Club Chapter Vice-Chair**  
+*2020 - 2022*
   * Developed chapter activities and programs
   * Held meetings and practices
   * New membership recruitment
 
-**NASA L'Space Mission Concept Academy Deputy Project Manager Fall 2020**
+**NASA L'Space Mission Concept Academy Deputy Project Manager**  
+*Fall 2020*
   * Mission: Enceladus Strategic Science Investigation
   * Designed a lander mission concept targeting the Tiger Stripe region on Saturn’s Moon Enceladus
   * Prepared a Preliminary Design Review (PDR) document describing the science objectives, experiments, spacecraft design, and payload
   * link to PDR
 
-**NASA NCAS - Community Aero Space Scholars**
+**NASA NCAS - Community Aero Space Scholars**  
+*Spring 2020*
   * Gained an understanding of NASA’s past, present, and future missions and how they will 
 contribute to the next generation of space exploration
   * Obtained the skills and resources to pursue a career at NASA or in a STEM Field
