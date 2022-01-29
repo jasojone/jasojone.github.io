@@ -40,9 +40,8 @@ redirect_from:
   * New membership recruitment
 
 **NASA L'Space Mission Concept Academy Deputy Project Manager Fall 2020**
-  * Enceladus Strategic Science Investigation
-  * Design a lander mission concept targeting the Tiger Stripe region on
-Saturn’s Moon Enceladus
+  * Mission: Enceladus Strategic Science Investigation
+  * Designed a lander mission concept targeting the Tiger Stripe region on Saturn’s Moon Enceladus
   * Prepared a Preliminary Design Review (PDR) document describing the science objectives, experiments, spacecraft design, and payload
   * link to PDR
 
@@ -54,25 +53,25 @@ contribute to the next generation of space exploration
   * Awarded invitation to virtual on-site experience 
   * Link to RP
 
-# Work experience
+# Work Experience
 
 **Inventory Auditor, Costco Wholesale Returns Depot #1995**  
 *2015 – Present*
   * Investigate, correct inventory discrepancies, and recover losses
   * Conduct inventory counts and prepare inventory reports
   * Advise leadership team on developing new procedures to improve accuracy
-  * Previously part of Leadership Team as Supervisor 
+  * Previously part of Leadership Team as a Supervisor 
 
 **Web Development, Northcote Energy**  
 *2014 – 2015*
-  * Wix.com website design, deployment, and maintenance
-  * Cloud managment
+  * Created website to design specifications using wix.com
+  * Maintained website updates and uptime at 100%
 
 **HVAC Technician, Deporto Heating and Air**  
 *2010 – 2012*
-  * Installation and service of residential and industrial heating and air 
+  * Assisted in the installation of residential/industrial heating and air 
   * Provided excellent customer service 
-  * Carried out service calls
+  * Excelled at completing jobs on time or ahead of schedule
 
 **Security Guard, Chief Protective Services**  
 *2004 – 2010*
@@ -80,9 +79,16 @@ contribute to the next generation of space exploration
   * Part of the Leadership Team as a special events coordinator
   * Patrol supervisor maintaining guard post routes
 
-# Skills
+# Hard Skills
 
-* Proficient in C++, Java, GitHub, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, PowerPoint
+**Proficient**  
+  * C++, Java, GitHub, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, PowerPoint
+
+**Novice**  
+  * Linux Development Environment, Python, Data Mining, Arduino, GitKraken, Git CMD & GUI
+
+# Soft Skills
+  * Leadership, Interpersonal Communication, Ethics, Open-Mindedness, Empathy, Perseverance
 
 <!-- Publications
 
