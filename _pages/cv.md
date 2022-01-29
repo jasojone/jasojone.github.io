@@ -93,7 +93,8 @@ contribute to the next generation of space exploration
   * Linux Development Environment, Python, Data Mining, Arduino, GitKraken, Git CMD & GUI
 
 # Soft Skills
-  * Leadership, Interpersonal Communication, Ethics, Open-Mindedness, Empathy, Perseverance
+  * Leadership, Honesty, Ethics, Love for Learning, Open Mindedness, Interpersonal Communication, Empathy, Perseverance, Public Speaking, Professional Writing, Creativity, Intuition
+
 
 <!-- Publications
 
