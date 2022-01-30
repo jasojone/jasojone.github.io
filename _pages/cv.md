@@ -90,7 +90,7 @@ contribute to the next generation of space exploration
   * C++, Java, GitHub, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, PowerPoint
 
 **Novice**  
-  * Linux Development Environment, Python, Data Mining, Arduino, GitKraken, Git CMD & GUI
+  * C, Java Script, Linux Development Environment, Python, Data Mining, Arduino, GitKraken, Git CMD & GUI
 
 # Soft Skills
   * Leadership, Honesty, Ethics, Love for Learning, Open Mindedness, Interpersonal Communication, Empathy, Perseverance, Public Speaking, Professional Writing, Creativity, Intuition
