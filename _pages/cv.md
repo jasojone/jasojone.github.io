@@ -18,9 +18,9 @@ redirect_from:
 
 **A.S. in Mathematics and Science, Norco College, 2021**
   * 4.0 GPA
-  * STEM pathways 
+  * STEM pathways Norco College
   * Phi Theta Cappa Honor Society
-  * Deans List
+  * Deans List 2017-2021
 
 
 # Academic Programs
@@ -270,24 +270,3 @@ This allows you to denote <var>variables</var>.
 {% include archive-single.html %}
 {% endfor %}
 
-<!-- Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-
-* Currently signed in to 43 different slack teams -->
