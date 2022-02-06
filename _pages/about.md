@@ -1,11 +1,13 @@
 ---
 permalink: /about/
-title: "About Me"
-excerpt: "About me"
+title: "About Me "
+# excerpt: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  # - /about.html
+redirect_from:
+#  - /main/
+#  - /main.html
+- /about
+- /about.html
 ---
 
 **About Me**
