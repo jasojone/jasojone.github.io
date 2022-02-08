@@ -13,7 +13,7 @@ redirect_from:
 # About Me
 
 ## TLDR:  
-I am a lifelong student with a love for learning. My current focus is Computer Science with an emphasis on software engineering. My ethos is immersed in the thrill of learning. 
+I am a lifelong student with a love for learning. My current focus is Computer Science with an emphasis on software engineering. My ethos is immersed in the thrill of learning, leading, and having a positive net impact on the world. 
 
 ### My Story
 
