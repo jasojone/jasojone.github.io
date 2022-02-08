@@ -10,10 +10,14 @@ redirect_from:
 - /about.html
 ---
 
-**About Me**
+# About Me
 
-# TLDR:  
+## TLDR:  
 I am a lifelong student with a love for learning. My current focus is Computer Science with an emphasis on software engineering. My ethos is immersed in the thrill of learning. 
+
+### My Story
+
+
 
 
 
