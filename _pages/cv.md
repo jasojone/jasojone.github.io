@@ -96,7 +96,7 @@ contribute to the next generation of space exploration
   * Leadership, Honesty, Ethics, Love for Learning, Open Mindedness, Interpersonal Communication, Empathy, Perseverance, Public Speaking, Professional Writing, Creativity, Intuition
 
 
-Testing formatting here  
+<!-- Testing formatting here  
 
 A variety of common markup showing how the theme styles them.
 
@@ -269,4 +269,4 @@ This allows you to denote <var>variables</var>.
 {% for post in site.pages %}
 {% include archive-single.html %}
 {% endfor %}
-
+ -->
