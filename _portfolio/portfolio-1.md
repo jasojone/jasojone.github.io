@@ -1,6 +1,6 @@
 ---
 title: "War the card game in C++"
-excerpt: "Thi sis my first complete game The objective is simple, win all the cards in the deck at all costs.<br/><img src='/images/portfolio-War'>"
+excerpt: "Thi sis my first complete game The objective is simple, win all the cards in the deck at all costs.<br/><img src='/images/portfolio-War.jpg'>"
 collection: portfolio
 ---
 
