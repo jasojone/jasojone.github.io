@@ -12,7 +12,10 @@ redirect_from:
 # Education
 **B.S. in Computer Science, California State Polytechnic University Pomona, 2024**  
 **(expected)**
+  * 3.95 GPA
   * Kellogs Honors College 
+  * Big Data & Cloud Computing Apprenticeship Program 
+  * National Society of Leadership and Success
   * Engineering Leadership Program
   * CPP RAMP - Reading Advising & Mentoring Program
 
@@ -87,13 +90,13 @@ contribute to the next generation of space exploration
 # Hard Skills
 
 **Proficient**  
-  * C++, Java, GitHub, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, PowerPoint
+  * C++, Java, Git, Markdown, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, PowerPoint
 
-**Novice**  
-  * C, Java Script, Linux Development Environment, Python, Data Mining, Arduino, GitKraken, Git CMD & GUI
+**Experienced**  
+  * AWS, C, Java Script, Linux Development Environment, Arduino, GitKraken, Virtual Machines
 
 # Soft Skills
-  * Leadership, Honesty, Ethics, Love for Learning, Open Mindedness, Interpersonal Communication, Empathy, Perseverance, Public Speaking, Professional Writing, Creativity, Intuition
+  * Leadership, Mentoring, Coaching, Honesty, Ethics, Love for Learning, Open Mindedness, Interpersonal Communication, Empathy, Perseverance, Public Speaking, Professional Writing, Creativity, Intuition
 
 
 <!-- Testing formatting here  
