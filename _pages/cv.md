@@ -90,7 +90,7 @@ contribute to the next generation of space exploration
 # Hard Skills
 
 **Proficient**  
-  * C++, Java, Git, Markdown, Google: Docs, Sheets, Slides, Microsoft Office: Excel, Word, PowerPoint
+  * C++, Java, Git, Markdown, Microsoft Office & Google Suite
 
 **Experienced**  
   * AWS, C, Java Script, Linux Development Environment, Arduino, GitKraken, Virtual Machines
