@@ -38,7 +38,7 @@ Non-mutating algorithms: for_each, find, count, equal, search.
 Mutating algorithms: copy, swap, transform, replace, fill, remove, and random_Shuffle.  
 Organization algorithms: sort, binary search, merge, inplace_merge, minimum, and maximum.
 
-Microverse was created using Netbeans Apache NetBeans IDE 12.3
+War in C++ was created using Apache NetBeans IDE 12.3
 
 <br><br>
 
