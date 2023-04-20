@@ -11,18 +11,20 @@ redirect_from:
 ---
 
 ## TLDR:  
-As a lifelong student, I am devoted to the pursuit of knowledge and personal growth. My passion for learning and leading is rooted in the belief that by continually striving to better ourselves and those around us, we can make a positive impact on the world. My focus is currently on computer science, specifically in the area of software engineering. 
-As I  embark on my journey through life, I approach my work with a deep appreciation for the profound impact it can have on others. With a human-centric and stoic mindset, I strive to contribute to the greater good and make a meaningful difference in the world.
+As a lifelong student, I am devoted to the pursuit of knowledge and personal growth. My passion for learning and leading is rooted in the belief that by continually striving to better ourselves and those around us, we can make a positive impact on the world. My focus is currently on computer science, specifically in the area of software engineering.  
+
+As I  embark on my journey through life, I approach my work with a deep appreciation for the profound impact it can have on others. With a human-centric and stoic mindset, I strive to contribute to the greater good and make a meaningful difference in the world. 
+
 Rather than shying away from challenges, I welcome them as opportunities for personal growth and learning. I am committed to constantly pushing myself to reach new heights, all while remaining focused on the needs and well-being of those around me. 
 
-<!--
-### My Story
 
 
 
 
 
- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
