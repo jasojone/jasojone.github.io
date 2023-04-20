@@ -11,7 +11,10 @@ redirect_from:
 ---
 
 ## TLDR:  
-As a lifelong student, I am devoted to the pursuit of knowledge and personal growth. My passion for learning and leading is rooted in the belief that by continually striving to better ourselves and those around us, we can make a positive impact on the world. My focus is currently on computer science, specifically in the area of software engineering. I approach this field with a human-centric and stoic mindset, recognizing that my work has the potential to influence the lives of others in meaningful ways. With every challenge that comes my way, I embrace it as an opportunity to learn, grow, and contribute to the greater good.
+As a lifelong student, I am devoted to the pursuit of knowledge and personal growth. My passion for learning and leading is rooted in the belief that by continually striving to better ourselves and those around us, we can make a positive impact on the world. My focus is currently on computer science, specifically in the area of software engineering. 
+As I  embark on my journey through life, I approach my work with a deep appreciation for the profound impact it can have on others. With a human-centric and stoic mindset, I strive to contribute to the greater good and make a meaningful difference in the world.
+Rather than shying away from challenges, I welcome them as opportunities for personal growth and learning. I am committed to constantly pushing myself to reach new heights, all while remaining focused on the needs and well-being of those around me. 
+
 <!--
 ### My Story
 
