@@ -13,7 +13,7 @@ redirect_from:
 # About Me
 
 ## TLDR:  
-I am a lifelong student with a love for learning. My current focus is Computer Science with an emphasis on software engineering. My ethos is immersed in the thrill of learning, leading, and having a positive net impact on the world. 
+As a lifelong student, I am devoted to the pursuit of knowledge and personal growth. My passion for learning and leading is rooted in the belief that by continually striving to better ourselves and those around us, we can make a positive impact on the world. My focus is currently on computer science, specifically in the area of software engineering. I approach this field with a human-centric and stoic mindset, recognizing that my work has the potential to influence the lives of others in meaningful ways. With every challenge that comes my way, I embrace it as an opportunity to learn, grow, and contribute to the greater good.
 
 ### My Story
 
