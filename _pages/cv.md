@@ -10,96 +10,120 @@ redirect_from:
 {% include base_path %}
 
 # Education
-**B.S. in Computer Science, California State Polytechnic University Pomona, 2024**  
-**(expected)**
-  * 3.95 GPA
-  * Kellogs Honors College 
-  * Big Data & Cloud Computing Apprenticeship Program 
-  * National Society of Leadership and Success
-  * Engineering Leadership Program
-  * CPP RAMP - Reading Advising & Mentoring Program
+**B.S. in Computer Science, Minor in Data Science, California State Polytechnic University Pomona, 2024**  
+*GPA: 3.86 Summa Cum Laude*  
+  * Kellogg Honors College  
+  * Big Data & Cloud Computing Apprenticeship Program Cohort 2  
+  * STEM Advantage Scholar  
+  * National Society of Leadership and Success  
+  * Engineering Leadership Program  
+  * CPP RAMP - Reading Advising & Mentoring Program  
 
-**A.S. in Mathematics and Science, Norco College, 2021**
-  * 4.0 GPA
-  * STEM pathways Norco College
-  * Phi Theta Cappa Honor Society
-  * Deans List 2017-2021
+**A.S. in Mathematics and Science, Norco College, 2021**  
+*GPA: 4.0*  
+  * STEM Pathways Program  
+  * Phi Theta Kappa Honor Society  
+  * Dean's List 2017–2021  
 
+# Projects
+**React Google Maps**  
+*Feb 2023 – Apr 2024*  
+Costco (Private Repo)  
+  * Developed an advanced single-page web application leveraging Google Maps API for interactive map features  
+  * Created an intuitive UI enhancing online user experience and business intelligence  
 
-# Academic Programs
-<!-- **Tentative CS Club CPP** -->
-**Kellogs Honors College**  
-*2021-Present*
-  * Promote academic excellence and intellectual exploration through honors courses, civic engagement, and special events
-  *  Planned participation in a senior capstone research project with CS faculty 
-
-**Engineering Leadership Program**  
-*Fall 2021*
-  * Ethics:  Principles of leadership, leadership mindset, outward mindset, and mindset and teamwork
-  * Self:  Gathering awareness, strengths reflection, time journaling
-  * Team:  Strengths and teamwork, team role reflection 
-
-**RCC ACM Club Chapter Vice-Chair**  
-*2020 - 2022*
-  * Developed chapter activities and programs
-  * Held meetings and practices
-  * New membership recruitment
-
-**NASA L'Space Mission Concept Academy Deputy Project Manager**  
-*Fall 2020*
-  * Mission: Enceladus Strategic Science Investigation
-  * Designed a lander mission concept targeting the Tiger Stripe region on Saturn’s Moon Enceladus
-  * Prepared a Preliminary Design Review (PDR) document describing the science objectives, experiments, spacecraft design, and payload
-  * link to PDR
-
-**NASA NCAS - Community Aero Space Scholars**  
-*Spring 2020*
-  * Gained an understanding of NASA’s past, present, and future missions and how they will 
-contribute to the next generation of space exploration
-  * Obtained the skills and resources to pursue a career at NASA or in a STEM Field
-  * Final Research paper on Habitation Systems Concept Studies
-  * Awarded invitation to virtual on-site experience 
-  * Link to RP
+**Portfolio Website – [jasonjonesthe.dev](https://jasonjonesthe.dev/)**  
+*Feb 2022 – Present*  
+  * Built a professional website using Jekyll + AcademicPages (Minimal Mistakes theme)  
+  * Implemented dynamic blogging via Sass and Markdown; enhanced UI and mobile accessibility with HTML/CSS  
 
 # Work Experience
 
-**Enterprise Monitoring Internship, Costco IT Issaquah WA**
-*2022*
-  * 
-  * 
-  * 
+**Ancillary Development and Infrastructure Intern, Costco IT**  
+*June 2024 – Sept 2024*  
+  * Supported 600+ servers and 7,000+ workstations across US and Canadian pharmacy ops  
+  * Automated workstation monitoring using PowerShell; reduced operation costs  
+  * Migrated documentation to Confluence, added table of contents and labeling for clarity  
+  * Uncovered vulnerabilities and researched hardware/software issues  
 
-**Inventory Auditor, Costco Wholesale Returns Depot #1995 Mira Loma CA**  
-*2015 – Present*
-  * Investigate, correct inventory discrepancies, and recover losses
-  * Conduct inventory counts and prepare inventory reports
-  * Advise leadership team on developing new procedures to improve accuracy
-  * Previously part of Leadership Team as a Supervisor 
+**Full Stack Engineer Intern, Costco IT**  
+*Jan 2023 – Apr 2023*  
+  * Contributed to production app feature development and optimization  
+  * Used React, TypeScript, C# .NET, Azure Functions, MUI; followed Agile practices  
+  * Managed code using Git Flow and deployed via Azure DevOps pipelines  
 
-**Web Development, Northcote Energy Dallas TX**  
-*2014 – 2015*
-  * Created website to design specifications using wix.com
-  * Maintained website updates and uptime at 100%
+**Student Assistant, Cal Poly Pomona, College of Science, Computer Science, Big Data & Cloud Computing**
+*Jan 2023 – Jan 2024*  
+  * Administered and maintained departmental cloud resources (Azure, AWS, and GCP) and infrastructure
+  * Assisted students in cloud projects through mentoring support and lab sessions
 
-**HVAC Technician, Deporto Heating and Air Riverside CA**  
-*2010 – 2012*
-  * Assisted in the installation of residential/industrial heating and air 
-  * Provided excellent customer service 
-  * Excelled at completing jobs on time or ahead of schedule
+**Enterprise Monitoring Intern, Costco IT**  
+*June 2022 – Sept 2022*  
+  * Monitored infrastructure, networks, and applications  
+  * Created custom monitoring solutions using Terraform, Puppet, Ansible, ServiceNow  
+  * Collaborated across Agile and ITIL teams to enhance efficiency  
 
-**Security Guard, Chief Protective Services Corona CA**  
-*2004 – 2010*
-  * Security detail for residential, industrial, and special events
-  * Part of the Leadership Team as a special events coordinator
-  * Patrol supervisor maintaining guard post routes
+**Equipment Operator Service Clerk, Costco Wholesale ns Depot #960, Mira Loma CA**  
+*2015 – Present*  
+  * Operated heavy machinery and managed warehouse operations
+  * Ensured safety and efficiency in a high-volume environment
 
-# Hard Skills
 
-**Proficient**  
-  * C++, Java, Git, Markdown, Microsoft Office & Google Suite
 
-**Experienced**  
-  * AWS, C, Java Script, Linux Development Environment, Arduino, GitKraken, Virtual Machines
+# Academic Programs & Activities
+
+**Founder & President, Google Developer Student Club (GDSC), Cal Poly Pomona**  
+*Summer 2022 – Present*  
+  * Founded and led the GDSC chapter, empowering students through workshops and tech projects  
+
+**STEM Advantage Scholarship & Mentoring Program**  
+*Spring 2023 – Present*  
+
+**sheCodes Club Mentor, Cal Poly Pomona**  
+*Spring 2022 – Fall 2023*  
+
+**NASA L'Space Mission Concept Academy, Deputy Project Manager**  
+*Fall 2020*  
+  * Led mission concept targeting Enceladus; authored Preliminary Design Review  
+
+**NASA NCAS - Community Aerospace Scholars**  
+*Spring 2020*  
+  * Research paper on Habitation Systems Concept Studies; selected for virtual on-site  
+
+**Vice-Chair, RCC ACM Chapter**  
+*2020 – 2022*  
+
+**Engineering Leadership Program, CPP**  
+*Fall 2021 – Spring 2022*  
+
+**Reading Advising & Mentoring Program (RAMP)**  
+*Spring 2022 – Present*  
+
+**Association for Computing Machinery & IEEE Member**  
+*Lifetime*  
+
+# Skills
+
+**Programming Languages**  
+  * Proficient: C++, Java, Python, JavaScript, C#, SQL, Dart, TypeScript  
+
+**Development Tools & Environments**  
+  * React, MUI, Azure DevOps Pipelines, Git, PowerShell, Postman, Swagger, Markdown, LaTeX, Google Apps Script, Jupyter Notebooks, Pandas, Spark, x86  
+
+**Cloud & Infrastructure**  
+  * AWS, Azure, GCP, Terraform, Puppet, Ansible, RHEL, Docker, VirtualBox, VMware, Hadoop, ADO Pipelines, Package Managers  
+
+**Other Tools**  
+  * ServiceNow, Microsoft Office, Google Suite  
 
 # Soft Skills
-  * Leadership, Mentoring, Coaching, Honesty, Ethics, Love for Learning, Open Mindedness, Interpersonal Communication, Empathy, Perseverance, Public Speaking, Professional Writing, Creativity, Intuition
+  * Leadership, Mentoring, Coaching, Public Speaking  
+  * Professional Writing, Creativity, Empathy  
+  * Interpersonal Communication, Open Mindedness, Perseverance  
+  * Ethics, Intuition, Love for Learning  
+
+# Honors & Scholarships
+  * College of Science - CS - Alvarez/Microsoft First Generation Scholarship  
+  * Edison STEM Scholars  
+  * Dolores M. Fuentes Endowed Osher Award for STEM  
+  * Harry S. P. Chin Endowed Scholarship  
